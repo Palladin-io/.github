@@ -4,11 +4,9 @@ A password manager for you and your AI agents. Palladin encrypts vault contents 
 
 [Website](https://palladin.io) · [Public repositories](https://github.com/orgs/Palladin-io/repositories?type=public)
 
-**Interested in using Palladin? [Join the waitlist](https://palladin.io).**
-
-Exploring the code? Start with the [Agent runtime](https://github.com/Palladin-io/palladin-agent) for CLI and MCP integration, or choose a component below.
-
 ## Explore the source
+
+Start with the [Agent runtime](https://github.com/Palladin-io/palladin-agent) for CLI and MCP integration, or choose a component below.
 
 | Repository | What it contains | Availability |
 | --- | --- | --- |
@@ -27,3 +25,7 @@ Pick a component, read its `CONTRIBUTING.md`, and open a focused issue or pull r
 ## Report a vulnerability
 
 Use the affected repository’s `SECURITY.md` and private reporting channel. Do not post credentials, user data or suspected vulnerability details in public issues.
+
+## Interested in using Palladin?
+
+[Join the waitlist](https://palladin.io) to follow Palladin's public launch.
